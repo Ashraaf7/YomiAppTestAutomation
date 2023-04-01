@@ -17,7 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//Mobile.startApplication('E:\\MyApps\\Katalon\\Yomi App\\APK\\Yomi.apk', false)
+//Mobile.startApplication('E:\\Projects\\Katalon\\Yomi App\\APK\\Yomi.apk', false)
+
 /*
 if (Mobile.verifyElementExist(findTestObject('Object Repository/LoginObjects/Instabug'), 0, FailureHandling.CONTINUE_ON_FAILURE)== true)
 	{
